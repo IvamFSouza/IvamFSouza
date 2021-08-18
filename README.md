@@ -17,7 +17,7 @@
     <img
       align="center"
       height="160"
-      src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&hide_title=true&show_icons=true&include_all_commits=true&hide=issues"/>
+      src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&hide_title=true&show_icons=true&hide=issues"/>
   </a>
 </p>
 
