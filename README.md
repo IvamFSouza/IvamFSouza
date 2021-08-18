@@ -10,13 +10,13 @@
   <a href="https://github.com/IvamFSouza/github-readme-stats">
     <img
       align="center"
-      height="160"
+      height="130"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvamFSouza&theme=compact"/>
   </a>
   <a href="https://github.com/IvamFSouza/github-readme-stats">
     <img
       align="center"
-      height="160"
+      height="130"
       src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&hide_title=true&show_icons=true&hide=issues"/>
   </a>
 </p>
