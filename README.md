@@ -7,17 +7,17 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/IvamFSouza/github-readme-stats">
     <img
       align="center"
       height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvamFSouza&theme=compact"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/IvamFSouza/github-readme-stats">
     <img
       align="center"
       height="160"
-      src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+      src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&hide_title=true&show_icons=true&include_all_commits=true&hide=issues"/>
   </a>
 </p>
 
