@@ -21,16 +21,17 @@
   </a>
 </p>
 
-##
+## Learning:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="Center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="Right" alt="itsme" src="https://cdn.discordapp.com/attachments/877270684932395030/878386799620292628/myself.gif">
 </div>
 
-<p align="center"> 
+<p align="Center"> 
   
- ## Total de Visitas no perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/IvamFSouza/count.svg" />
+ ## Total de Visitas: <br>
+ <p align="Left"> 
+   <img alingn="Left" src="https://profile-counter.glitch.me/IvamFSouza/count.svg" />
  </p>
 </p>
