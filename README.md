@@ -6,20 +6,10 @@
 </p>
 </br>
 </br>
-<p align="center">
-    <a href="https://github.com/IvamFSouza/github-readme-stats">
-    <img
-      align="center"
-      height="140"
-      src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&hide_title=true&show_icons=true&hide=issues"/>
-  </a>
-   <a href="https://github.com/IvamFSouza/github-readme-stats">
-    <img
-      align="center"
-      height="140"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvamFSouza&theme=compact"/>
-  </a>
-</p>
+<div align="center">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=IvamFSouza&show_icons=true&t&theme=compact"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvamFSouza&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact"/>
+</div>
 
 ## Learning:
 
