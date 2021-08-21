@@ -16,7 +16,7 @@
    <a href="https://github.com/IvamFSouza/github-readme-stats">
     <img
       align="center"
-      height="150"
+      height="130"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvamFSouza&theme=compact"/>
   </a>
 </p>
